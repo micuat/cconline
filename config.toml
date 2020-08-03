@@ -1,0 +1,6 @@
+baseURL = "https://cconline.naotohieda.com/"
+languageCode = "en-us"
+title = "Choreographic Coding Online"
+theme = "ananke"
+summarylength = 10
+enableEmoji = true
