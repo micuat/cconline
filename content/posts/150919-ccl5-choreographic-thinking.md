@@ -1,0 +1,17 @@
++++
+author = "Choreographic Coding Lab"
+title = "CCL5: Choreographic Thinking Input"
+date = "2015-09-19"
+description = "report"
+tags = [ "ccl" ]
++++
+
+(text by Scott deLahunta)
+
+On [Ros Warby](http://www.roswarby.com/)'s website is a text titled ’process and philosophy’. Here is an extract: “Eliminating attachment to prescribed techniques or choreographic approaches she invites the body to undo any pre-conceived notions of what dance is.” This challenges conventional ideas about dance and in this way resonates with the performance philosophy of [Deborah Hay](http://www.deborahhay.com/deborah_hay.html), with whom Ros worked extensively and has been a “profound influence” on her artistic development. Ros also worked as a dancer-choreographer in the Deborah Hay Motion Bank [Score project](http://scores.motionbank.org/dh/). The Deborah Hay project produced roughly 4 TB of data part of which will be available for the CCL5, and Ros will take part in the presentation at 1 pm on Day 1 (Tuesday) to offer insights into her experience in this process. One part of the score project you might explore involving Ros are her [insights](http://scores.motionbank.org/dh/#/set/jeanine-ros-insights) (scroll right) into how Deborah's 'choreography of perception' works for her. Ros has also been the key contact helping organise the other Guest Choreographers for this CCL5.
+
+[Ann Carlson](https://en.wikipedia.org/wiki/Ann_Carlson)'s choreographic work also challenges convention by drawing movement material from non-traditional (not rooted in a specific physical training practice) sources. Her current project "[The Symphonic Body](http://cap.ucla.edu/residencies/ann_carlson)" being developed here for [CAP](http://cap.ucla.edu/) at UCLA (to premiere in November) is just such a work. This is a movement-based orchestral work performed by people from across the UCLA community. Two short videos "[Weaving a Social Sculpture](https://www.youtube.com/watch?t=1&v=suoWTtqaPjA)" and "[Finding Spontaneity and Concentration](https://www.youtube.com/watch?v=haCl5VSODp0)" open up a part of the process of creating this piece for us. We will be filming some material from a rehearsal with Ann and some of the performers before the CCL begins which we hope (if we can process it in time) to make available as data to the CCL. Ann will give a presentation and dialogue with us on the 16th at 1 pm about her process in the studio working on this piece for CAP, and some earlier work.
+
+[Laurel Tentindo](http://www.laureltentindo.com/) is the third guest choreographer invited to offer Choreographic Thinking Input to CCL5. Laurel performed with the choreographer [Trisha Brown](http://www.trishabrowncompany.org/) from 2007-2012. Brown is considered one of the major artistic influences in contemporary choreography and dance from the second half of the 20th Century. The very notion of 'choreographic thinking' connects well to Brown's approaches to making dancemaking, and she is known for using algorithm like processes (e.g. [Untitled Locus](http://www.trishabrowncompany.org/?page=view&nr=723) 1975). Laurel's own work ([vimeo channel](https://vimeo.com/channels/laureltentindo/90352752)) builds on and departs from this strong influence. She is also a certified teacher of [Skinner Releasing Technique](http://www.skinnerreleasing.com/aboutsrt.html). We have invited Laurel to share her knowledge and expertise with us.
+
+<!-- (Choreographic Thinking Input for CCL4 & CCL3)  -->
