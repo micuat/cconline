@@ -1,6 +1,11 @@
 baseURL = "https://cconline.naotohieda.com/"
 languageCode = "en-us"
-title = "Choreographic Coding Online"
+title = "CCOnline"
 theme = "ananke"
 summarylength = 10
 enableEmoji = true
+
+[params]
+  featured_image = "/images/2020-07-23-paf.png"
+  description = "Archive of Choreographic Coding Online"
+  recent_posts_number = 10
