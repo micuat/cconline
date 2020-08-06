@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "2020 07 30 Best Practices"
 date = "2020-07-30"
 description = "video"
-tags = [ "practice", "video" ]
+tags = [ "practice", "video", "livecoding" ]
 +++
 
 ![](/images/2020-08-01-best-practices.jpg)

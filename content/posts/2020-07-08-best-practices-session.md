@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "2020 07 08 Best Practices"
 date = "2020-07-08"
 description = "video"
-tags = [ "practice", "video" ]
+tags = [ "practice", "video", "livecoding" ]
 +++
 
 {{< rawhtml >}}
