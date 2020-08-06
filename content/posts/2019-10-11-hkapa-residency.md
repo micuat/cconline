@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "HKAPA Residency"
 date = "2019-10-11"
 description = "report"
-tags = [ "report" ]
+tags = [ "performance", "workshop", "pathfinder" ]
 +++
 
 Video of Stäbetanze by Raphael Hillebrand, Naoto Hieda and HKAPA BFA students:

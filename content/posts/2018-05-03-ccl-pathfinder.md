@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "NOVA: Choreographic Coding Lab + Pathfinder"
 date = "2018-05-03"
 description = "report"
-tags = [ "report", "ccl", "workshop" ]
+tags = [ "report", "ccl", "workshop", "pathfinder" ]
 +++
 
 ![](/images/2018-05-03-ccl-pathfinder.jpg)
