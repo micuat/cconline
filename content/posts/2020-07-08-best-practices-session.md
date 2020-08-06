@@ -3,8 +3,10 @@ author = "Naoto Hieda"
 title = "2020 07 08 Best Practices"
 date = "2020-07-08"
 description = "video"
-tags = [ "practice", "video", "livecoding" ]
+tags = [ "practice", "video", "livecoding", "hydra", "livelab" ]
 +++
+
+An improvisational session on LiveLab between Naoto in Cologne and Jorge and Matthijs at Performing Arts Forum was recorded on July 8th.
 
 {{< rawhtml >}}
 <div class="youtube-container">

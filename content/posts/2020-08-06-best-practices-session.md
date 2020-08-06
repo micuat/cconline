@@ -3,12 +3,12 @@ author = "Naoto Hieda"
 title = "2020 08 06 Best Practices"
 date = "2020-08-06"
 description = "video"
-tags = [ "practice", "video", "livecoding" ]
+tags = [ "practice", "video", "livecoding", "call", "hydra", "livelab" ]
 +++
 
 ![](/images/2020-08-06-best-practices.png)
 
-30 minutes of Naoto's solo on blue background, followed by an improvisational Facebook-messenger call of Naoto in Cologne and Jorge at Performing Arts Forum.
+30 minutes of Naoto's solo on blue background, followed by an improvisational Facebook-messenger call of Naoto in Cologne and Jorge and Matthjis at Performing Arts Forum.
 
 {{< rawhtml >}}
 <div class="youtube-container">

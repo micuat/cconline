@@ -3,10 +3,12 @@ author = "Naoto Hieda"
 title = "2020 08 05 Best Practices (Hydra Workshop)"
 date = "2020-08-05"
 description = "video"
-tags = [ "practice", "video", "livecoding" ]
+tags = [ "practice", "video", "livecoding", "workshop", "hydra", "livelab" ]
 +++
 
 ![](/images/2020-08-05-best-practices.png)
+
+Naoto in Cologne gave an informal Hydra workshop for Jorge and Matthijs at Performing Arts Forum.
 
 {{< rawhtml >}}
 <div class="youtube-container">
