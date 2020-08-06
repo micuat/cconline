@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "Best Practices in Contemporary Dance"
 date = "2020-08-01"
 description = "report"
-tags = [ "essay" ]
+tags = [ "essay", "practice" ]
 +++
 
 ![](/images/2020-08-01-best-practices.jpg)
