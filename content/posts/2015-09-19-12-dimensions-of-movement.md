@@ -3,7 +3,7 @@ author = "Choreographic Coding Lab"
 title = "12 dimensions of movement"
 date = "2015-09-19"
 description = "report"
-tags = [ "ccl" ]
+tags = [ "ccl", "trackable qualities" ]
 +++
 
 A booklet by [Quin Kennedy](http://www.quinkennedy.com/), who kindly gave permission to share the PDF.

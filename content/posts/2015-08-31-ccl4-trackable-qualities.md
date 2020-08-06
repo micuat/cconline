@@ -3,7 +3,7 @@ author = "Choreographic Coding Lab"
 title = "CCL4: Trackable Qualities"
 date = "2015-08-31"
 description = "report"
-tags = [ "ccl" ]
+tags = [ "ccl", "trackable qualities" ]
 +++
 
 (compiled by CCL4 participants)

@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "Articulation Hackathon"
 date = "2019-11-18"
 description = "report"
-tags = [ "essay" ]
+tags = [ "report" ]
 +++
 
 ![](/images/2019-11-15-articulation.png)

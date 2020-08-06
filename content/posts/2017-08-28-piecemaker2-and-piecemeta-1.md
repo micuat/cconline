@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "Piecemaker2 and Piecemeta 1"
 date = "2017-08-28"
 description = "report"
-tags = [ "ccl" ]
+tags = [ "annotation" ]
 +++
 
 ![](/images/2017-08-28-piecemaker2-and-piecemeta-1.jpg)

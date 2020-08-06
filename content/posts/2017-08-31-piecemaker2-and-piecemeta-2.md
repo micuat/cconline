@@ -3,7 +3,7 @@ author = "Naoto Hieda"
 title = "Piecemaker2 and Piecemeta 2"
 date = "2017-08-31"
 description = "report"
-tags = [ "ccl" ]
+tags = [ "annotation" ]
 +++
 
 After writing [the last article]({{< ref "2017-08-28-piecemaker2-and-piecemeta-1.md" >}}), I found a solution for the sync problems. The principle is to make sure that the internal clocks of all the equipment is synchronized (for example, check [time.is](http://time.is) before recording). This is tricky for action cameras or camcorders but you can always correct the offset later. For video recordings, you can access the metadata of the video file by [MediaInfo](https://mediaarea.net/en/MediaInfo) to check the "Encoded Date." Convert this date and time into epoch timestamp on [Epech Unix Time Stamp Converter](https://unixtimestamp.com) and use the converted value on Piecemaker2. Now the video's timestamp is aligned to the time in the real world (up to a second of precision). I am planning to write a Python script to automate this process if I can find an appropriate library (**TODO1**).
