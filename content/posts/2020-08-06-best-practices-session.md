@@ -8,7 +8,7 @@ tags = [ "practice", "video", "livecoding" ]
 
 ![](/images/2020-08-06-best-practices.png)
 
-30 minutes of Naoto's solo on blue background, followed by an improvisational Facebook-messenger call of Naoto and Jorge.
+30 minutes of Naoto's solo on blue background, followed by an improvisational Facebook-messenger call of Naoto in Cologne and Jorge at Performing Arts Forum.
 
 {{< rawhtml >}}
 <div class="youtube-container">
