@@ -16,3 +16,10 @@ tags = [ "practice", "video", "livecoding", "call", "hydra", "livelab" ]
 </div>
 {{< /rawhtml >}}
 
+
+{{< rawhtml >}}
+<div class="youtube-container">
+<iframe class="youtube-video" width="560" height="315" src="https://www.youtube.com/embed/UB1eekyAK9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{{< /rawhtml >}}
+
