@@ -6,7 +6,7 @@ description = "video"
 tags = [ "practice", "video", "livecoding", "call", "hydra", "livelab" ]
 +++
 
-![](/images/2020-08-20-best-practices.png)
+![](/images/2020-08-20-best-practices-session.png)
 
 We had an improvisational Facebook-messenger call of Naoto in Bielefeld, Germany and Jorge and Matthjis at Performing Arts Forum.
 
